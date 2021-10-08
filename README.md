@@ -1,17 +1,42 @@
-# Getting Started with Create React App
+Travel web (Type Script practice)
+====
+author: Jacky Zhang  Email:jackyzh0614@gmail.come  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Technology stack
+----------
 
-## Available Scripts
+| what   |
+| ---------- |
+| React    | 
+| Redux     |
+| React-redux     | 
+| Redux-toolkit     | 
+| axios     |
+| Type Script    | 
+| Antd    | 
 
-In the project directory, you can run:
 
-### `npm start`
+Run project
+-----------
+git clone git@github.com:Fanz0614/travel-web.git <br>
+npm install <br>
+npm start <br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+What I did 
+---------
+1. Fetch data from the endpoint
+2. Register/login
+3. i18n
+4. UI design using Antd
+5. filter
+6. cart
+7. detail pages
+8. add star
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Further improvement
+-----------------
+1. responsive design
+2. optimization
+
 
 
