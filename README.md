@@ -38,5 +38,10 @@ Further improvement
 1. responsive design
 2. optimization
 
-
+Screen shot
+-----------
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/Homepage.PNG)
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/detail.PNG)
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/cart.PNG)
+![Alt text](https://raw.githubusercontent.com/Fanz0614/pic/master/register.PNG)
 
